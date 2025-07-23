@@ -1,5 +1,5 @@
 # cricket_mini_project
-##🔍More deatils about the project is mentioned in the ppt
+#🔍More deatils about the project is mentioned in the ppt
 # 🏏 Cricket Score Prediction Using Machine Learning
 
 This repository presents a machine learning approach to predicting final cricket match scores using real-time and historical ball-by-ball data. The project was presented at the **3rd International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC 2025)**, KIIT-DU.
