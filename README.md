@@ -29,10 +29,7 @@ The aim is to develop a predictive model that can accurately forecast a team's f
 
 - **Train Score:** 99.05%
 - **Test Score:** 99.73%
-- **Error Metrics:**
-  - MSE: 4.42
-  - MAE: 55.76
-  - RMSE: 7.46
+
 
 ### 🔍 Model Comparison
 
